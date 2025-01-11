@@ -1,0 +1,7 @@
+D:\PROJECT_VISUAL\A_Project_For_Training\A_Project_For_Training\bin\Debug\A_Project_For_Training.exe.config
+D:\PROJECT_VISUAL\A_Project_For_Training\A_Project_For_Training\bin\Debug\A_Project_For_Training.exe
+D:\PROJECT_VISUAL\A_Project_For_Training\A_Project_For_Training\bin\Debug\A_Project_For_Training.pdb
+D:\PROJECT_VISUAL\A_Project_For_Training\A_Project_For_Training\obj\Debug\A_Project_For_Training.csproj.AssemblyReference.cache
+D:\PROJECT_VISUAL\A_Project_For_Training\A_Project_For_Training\obj\Debug\A_Project_For_Training.csproj.CoreCompileInputs.cache
+D:\PROJECT_VISUAL\A_Project_For_Training\A_Project_For_Training\obj\Debug\A_Project_For_Training.exe
+D:\PROJECT_VISUAL\A_Project_For_Training\A_Project_For_Training\obj\Debug\A_Project_For_Training.pdb
